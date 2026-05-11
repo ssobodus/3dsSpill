@@ -1,0 +1,7 @@
+namespace Object 
+{
+  class Object
+  {
+
+  };
+}
